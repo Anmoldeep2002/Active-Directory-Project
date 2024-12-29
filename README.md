@@ -25,23 +25,9 @@
 - <b>Windows 10</b> (21H2)
 - <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
-
-<p align="center"> 
-Launch Oracle VirtualBox: <br/>
-<img src="https://i.imgur.com/AV5utKx.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
+<h2>Table Of Contents:</h2>
 
 
-<p align="center">This is the first step in this project. I’ve installed the software called “ORACLE VIRTUALBOX” and this software will allow me to install and manage virtual devices on my laptop. Using this software will allow me to create a small network in which I will create a domain and that domain will include a server and some clients. I will also be able to use “Active Directory” to manage users and computers.</p>
-
-<br />
-
-<p align="center"> 
-STEP 2: <br/>
-<img src="https://i.imgur.com/QJ3768b.png" height="80%" width="80%" alt="Disk Sanitization Steps"/> </p>
-
-
-<p align="center">The next step is to click where it says “NEW”. This function will allow me to add a virtual client inside the software “VirtualBox”. In this case, I will try to add “Windows Server 2016” which will be used for active directory, to create a domain and manage all clients on the domain.</p>
 
 
 
