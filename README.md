@@ -29,7 +29,7 @@
 
 <p>Click on each link to see the step-by-step project walk-through with screenshots included</p>
 
-- [Installing Windows Server 2016 (Domain Controller)](https://github.com/Anmoldeep2002/Active-Directory-Project/tree/main)
+- [Installing Windows Server 2016 (Domain Controller)](https://github.com/Anmoldeep2002/Installing-Windows-Server-2016-OS/tree/main)
 
 
 
