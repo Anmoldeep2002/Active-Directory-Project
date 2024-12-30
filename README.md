@@ -31,6 +31,11 @@
 
 - [Installing Windows Server 2016 (Domain Controller)](https://github.com/Anmoldeep2002/Installing-Windows-Server-2016-OS/tree/main)
 - [Installing Windows 10](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Installing Active Directory](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Creating a Domain](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Renaming Devices](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Assigning IP Addresses](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Joining Devices to Domain](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 
 
 
