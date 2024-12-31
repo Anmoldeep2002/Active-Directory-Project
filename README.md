@@ -32,6 +32,7 @@
 - [Installing Windows Server 2016 (Domain Controller)](https://github.com/Anmoldeep2002/Installing-Windows-Server-2016-OS/tree/main)
 - [Installing Windows 10](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 - [Installing Active Directory and Creating a Domain](https://github.com/Anmoldeep2002/Installing-Active-Directory/tree/main)
+- [Installing Active Directory on Helpdesk Account (RSAT Tools)](https://github.com/Anmoldeep2002/RSAT-Tools)
 - [Renaming Devices](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 - [Assigning IP Addresses](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 - [Joining Devices to Domain](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
