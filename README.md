@@ -35,7 +35,7 @@
 - [Installing Active Directory on Helpdesk Account (RSAT Tools)](https://github.com/Anmoldeep2002/RSAT-Tools)
 - [Renaming Devices (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Renaming-Devices/tree/main)
 - [Assigning IP Addresses (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Assigning-IP-Addresses/tree/main)
-- [Joining Devices to Domain](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Joining Devices to Domain (Helpdesk and Client Device)](https://github.com/Anmoldeep2002/Joining-Devices-To-Domain/tree/main)
 
 
 
