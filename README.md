@@ -37,6 +37,7 @@
 - [Joining Devices to Domain (Helpdesk and Client Device)](https://github.com/Anmoldeep2002/Joining-Devices-To-Domain/tree/main)
 - [Creating User Accounts (Helpdesk and Client Device)](https://github.com/Anmoldeep2002/Creating-New-Users/tree/main)
 - [Creating Oganizational Units (OU’S)](https://github.com/Anmoldeep2002/Creating-Organizational-Units/tree/main)
+- [Moving Users to New Oganizational Units (OU’S)](https://github.com/Anmoldeep2002/Moving-Users-To-New-Organizational-Units)
 
 
 
