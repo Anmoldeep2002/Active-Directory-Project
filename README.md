@@ -36,7 +36,8 @@
 - [Renaming Devices (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Renaming-Devices/tree/main)
 - [Assigning IP Addresses (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Assigning-IP-Addresses/tree/main)
 - [Joining Devices to Domain (Helpdesk and Client Device)](https://github.com/Anmoldeep2002/Joining-Devices-To-Domain/tree/main)
-
+- [Creating User Accounts (Helpdesk and Client Device)](https://github.com/Anmoldeep2002/Creating-New-Users/tree/main)
+- [Creating Oganizational Units (OU’S)](https://github.com/Anmoldeep2002/Creating-New-Users/tree/main)
 
 
 
