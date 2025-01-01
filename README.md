@@ -33,8 +33,8 @@
 - [Installing Windows 10](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 - [Installing Active Directory and Creating a Domain](https://github.com/Anmoldeep2002/Installing-Active-Directory/tree/main)
 - [Installing Active Directory on Helpdesk Account (RSAT Tools)](https://github.com/Anmoldeep2002/RSAT-Tools)
-- [Renaming Devices (Server, Helpdesk and Client Devices](https://github.com/Anmoldeep2002/Renaming-Devices/tree/main)
-- [Assigning IP Addresses](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
+- [Renaming Devices (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Renaming-Devices/tree/main)
+- [Assigning IP Addresses (Server, Helpdesk and Client Devices)](https://github.com/Anmoldeep2002/Assigning-IP-Addresses/tree/main)
 - [Joining Devices to Domain](https://github.com/Anmoldeep2002/Installing-Windows-10-OS)
 
 
