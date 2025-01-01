@@ -22,8 +22,7 @@
 
 - <b>Oracle VirtualBox</b>
 - <b>Windows Server 2016</b>
-- <b>Windows 10</b> (21H2)
-- <b>Windows 10</b> (21H2)
+- <b>Windows 10</b> 
 
 <h2>Table Of Contents:</h2>
 
