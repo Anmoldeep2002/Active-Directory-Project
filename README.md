@@ -42,6 +42,7 @@
 - [Creating a New Group Policy (Disabling Task Manager)](https://github.com/Anmoldeep2002/Creating-New-Group-Policy/tree/main)
 - [Troubleshooting (ACCOUNT LOCKOUT, PASSWORD RESET, ENABLE ACCOUNT)](https://github.com/Anmoldeep2002/Troubleshooting/tree/main)
 - [Creating Security Groups](https://github.com/Anmoldeep2002/Creating-Security-Groups/tree/main)
+- [Creating Shared Folders](https://github.com/Anmoldeep2002/Creating-Security-Groups/tree/main)
 
 
 
