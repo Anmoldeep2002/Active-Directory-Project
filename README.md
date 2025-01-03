@@ -8,6 +8,12 @@
 
 <br />
 
+<h2>Environments Used </h2>
+
+- <b>Oracle VirtualBox</b>
+- <b>Windows Server 2016</b>
+- <b>Windows 10</b> 
+
 
 <h2>Tools Used</h2>
 
@@ -17,12 +23,9 @@
 - <b>Control Panel</b>
 - <b>Remote Desktop Connection</b>
 - <b>File Explorer</b>
+- <b>Group Policy</b>
 
-<h2>Environments Used </h2>
-
-- <b>Oracle VirtualBox</b>
-- <b>Windows Server 2016</b>
-- <b>Windows 10</b> 
+<br />
 
 <h2>Table Of Contents:</h2>
 
